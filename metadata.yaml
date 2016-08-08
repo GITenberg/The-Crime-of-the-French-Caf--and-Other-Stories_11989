@@ -1,0 +1,24 @@
+_repo: The-Crime-of-the-French-Caf--and-Other-Stories_11989
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Nicholas
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- GITenberg
+tableOfContents: The crime of the French Café -- Nick Carter's ghost story -- The
+  mystery of St. Agnes' Hospital.
+title: The Crime of the French Café and Other Stories
+url: http://www.gutenberg.org/ebooks/11989
