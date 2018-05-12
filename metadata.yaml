@@ -1,11 +1,16 @@
 _repo: The-Crime-of-the-French-Caf--and-Other-Stories_11989
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carter, Nicholas
     gutenberg_agent_id: '4161'
     url: http://www.gutenberg.org/2009/agents/4161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11989#The-Crime-of-the-French-Caf--and-Other-Stories
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
